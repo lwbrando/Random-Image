@@ -15,5 +15,5 @@ var download = function(uri, filename, callback){
 };
 
 download('https://picsum.photos/2000/1000', 'immagine.jpg', function(){
-  console.log('TIENI VECCHIO DI MERDA');
+  console.log('Here you go!');
 });
